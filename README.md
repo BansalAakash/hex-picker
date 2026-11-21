@@ -5,6 +5,10 @@ A tiny macOS app that shows the hex code of whatever is under your cursor.
 - A tooltip follows the cursor with a colour swatch and the hex code (sRGB).
 - The ◉ menu bar icon has **Copy Hex** and **Quit**.
 
+## Install
+
+Download `HexPicker.dmg` from the [latest release](https://github.com/BansalAakash/hex-picker/releases/latest), open it and drag **Hex Picker** into **Applications**.
+
 ## Build
 
 Needs Xcode command line tools and macOS 14 or later.
